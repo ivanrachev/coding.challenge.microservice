@@ -20,9 +20,9 @@ Create a client-server account display application with the following requiremen
   where ip/port is the ip/port of microservice, accountID is the external account ID
 * client portion of the application calls the microservice end point, and prints the account information to the standard output.
 
-NOTE: Server may have hard-coded list of accounts. 
-NOTE: Server is not required to store and read account information from a database.
-NOTE: Code must be in JAVA
+# NOTE: Server may have hard-coded list of accounts. 
+# NOTE: Server is not required to store and read account information from a database.
+# NOTE: Code must be in JAVA
 
 ## Things that will get our attention:
 ---
